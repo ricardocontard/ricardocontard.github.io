@@ -29,7 +29,7 @@ window.open("https://iosoft.ml", "_blank");
 $scope.Container6_click = function() {$scope.GotoPage( "webs" );};
 $scope.Container7_click = function() {$App.webradio = confirm( "A continuación será redirigido al sitio web de la radio en linea 'Antena 110'. ¿Desea continuar?" );
 if ($App.webradio == "1") {
-window.open("https://antena110.ml", "_blank");
+window.open("https://radioantena110.github.io", "_blank");
 } else {
 };};
 $scope.Container8_click = function() {$scope.GotoPage( "fotos" );};
