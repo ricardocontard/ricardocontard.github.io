@@ -23,7 +23,7 @@ $scope.Container3_click = function() {$scope.GotoPage( "musica" );};
 $scope.Container2_click = function() {$scope.GotoPage( "cortos" );};
 $scope.Container5_click = function() {$App.webiosoft = confirm( "A continuación será redirigido al sitio web de IoSoft Producciones. ¿Desea continuar?" );
 if ($App.webiosoft == "1") {
-window.open("https://iosoft.ml", "_blank");
+window.open("https://iosoft2022.github.io", "_blank");
 } else {
 };};
 $scope.Container6_click = function() {$scope.GotoPage( "webs" );};
