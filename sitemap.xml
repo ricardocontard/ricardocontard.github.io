@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with https://site-analyzer.pro -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>https://ricardocontard.com.ar/</loc>
+	<priority>1.0</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://ricardocontard.com.ar/bio.html</loc>
+	<priority>0.9</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://ricardocontard.com.ar/contacto.html</loc>
+	<priority>0.9</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://ricardocontard.com.ar/cortos.html</loc>
+	<priority>0.9</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://ricardocontard.com.ar/galeria.html</loc>
+	<priority>0.9</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://ricardocontard.com.ar/libros.html</loc>
+	<priority>0.9</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://ricardocontard.com.ar/musica.html</loc>
+	<priority>0.9</priority>
+	<changefreq>weekly</changefreq>
+</url>
+<url>
+	<loc>https://ricardocontard.com.ar/webs.html</loc>
+	<priority>0.9</priority>
+	<changefreq>weekly</changefreq>
+</url>
+</urlset>
